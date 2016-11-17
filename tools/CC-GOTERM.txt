@@ -1,0 +1,21 @@
+cell
+cell junction
+cell part
+extracellular matrix
+extracellular matrix part
+extracellular region
+extracellular region part
+macromolecular complex
+membrane
+membrane part
+membrane-enclosed lumen
+mitochondrion-associated adherens complex
+nucleoid
+organelle
+organelle part
+symplast
+synapse
+synapse part
+viral occlusion body
+virion
+virion part

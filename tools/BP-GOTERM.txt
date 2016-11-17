@@ -1,0 +1,23 @@
+biological adhesion
+biological regulation
+cell killing
+cellular component organization or biogenesis
+cellular process
+developmental process
+establishment of localization
+growth
+immune system process
+localization
+locomotion
+metabolic process
+multi-organism process
+multicellular organismal process
+negative regulation of biological process
+positive regulation of biological process
+regulation of biological process
+reproduction
+reproductive process
+response to stimulus
+rhythmic process
+signaling
+single-organism process

@@ -1,0 +1,21 @@
+antioxidant activity
+binding
+catalytic activity
+channel regulator activity
+chemoattractant activity
+chemorepellent activity
+D-alanyl carrier activity
+electron carrier activity
+enzyme regulator activity
+metallochaperone activity
+molecular transducer activity
+morphogen activity
+nucleic acid binding transcription factor activity
+nutrient reservoir activity
+protein binding transcription factor activity
+protein tag
+receptor activity
+receptor regulator activity
+structural molecule activity
+translation regulator activity
+transporter activity
